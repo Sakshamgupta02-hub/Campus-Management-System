@@ -84,12 +84,11 @@ The project was tested manually using different valid and invalid inputs.
 
 ### **Screenshots**
 <img width="453" height="620" alt="image" src="https://github.com/user-attachments/assets/12460f29-0d41-4642-96da-76c809100c52" />
+
 <img width="448" height="622" alt="image" src="https://github.com/user-attachments/assets/8cdcd8fc-df8d-4e1b-8e1c-becbf28664b7" />
+
 <img width="369" height="513" alt="image" src="https://github.com/user-attachments/assets/21b600b2-6951-42e1-bb20-dcf54966bc20" />
+
 <img width="480" height="505" alt="image" src="https://github.com/user-attachments/assets/4b2fd9fd-a96c-4b28-92df-069141eef120" />
+
 <img width="594" height="775" alt="image" src="https://github.com/user-attachments/assets/040697a7-4748-4583-84b1-b531bd4dc2eb" />
-
-
-
-
-
