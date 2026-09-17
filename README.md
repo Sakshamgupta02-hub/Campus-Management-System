@@ -1,8 +1,8 @@
-**Overview**
+###**Overview**
 Campus Management System is a simple Java console-based application used to manage student academic and support information. It allows users to manage student details, attendance, marks, and complaints in one system.
 The project is developed using Core Java and stores data locally using file handling.
 
-#Features
+Features
 Add, view, search, and delete students
 Manage student attendance
 Calculate attendance percentage and status
